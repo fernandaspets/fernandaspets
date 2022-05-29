@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1530672412513095680/bm3RLuPh_400x400.jpg
+avatar: https://pbs.twimg.com/profile_images/1530769838859116544/zvtuIHaw_400x400.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
